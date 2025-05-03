@@ -61,3 +61,13 @@ Click **OK**
 More will come! :)
 
 For any donations > https://ko-fi.com/sneakls
+
+
+---------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------
+**Examples**
+
+![Demonologist](https://i.ibb.co/zW4Qv39k/demonologistemf.png)
+![Resident Evil](https://i.ibb.co/6RLcjGQj/residentevil.png)
+![Doomguy](https://i.ibb.co/cczwJ0jY/doomguy.png)
