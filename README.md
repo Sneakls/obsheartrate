@@ -12,7 +12,7 @@ To set this up, the only way that I know for now is to use the following softwar
 
 **XAMPP** (Local webserver with Apache & PHP) - https://sourceforge.net/projects/xampp/
 
-**HeartRate** by jlennox (This software reads the heartrate) - https://github.com/jlennox/HeartRate
+**HeartRate** by jlennox (This software reads the heartrate and outputs it into a textfile needed for this to work) - https://github.com/jlennox/HeartRate
 
 
 
